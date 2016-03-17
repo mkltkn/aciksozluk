@@ -6,7 +6,7 @@ Dil: Oylayan1, Oylayan2 seklinde bu dosyayi editleyerek ilerleyebiliriz. Coklu o
 * PHP: @o, @ozziest, @okanvurdu, @sahtepetrucci, @erayarslan
 * Python: @readtimeout
 * Go:
-* NodeJS: @okanvurdu, @ramesaliyev, @erayarslan, @ygunayer
+* NodeJS: @okanvurdu, @ramesaliyev, @erayarslan, @ygunayer @KiPSOFT
 
 Oylayanlar:
 
@@ -18,3 +18,4 @@ Oylayanlar:
 * @ramesaliyev
 * @erayarslan
 * @ygunayer
+* @KiPSOFT
