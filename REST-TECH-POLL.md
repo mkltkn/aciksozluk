@@ -3,7 +3,7 @@ Anonim bir oylama yerine herkesin fikirlerini yazdigi bir dosya olusturmayi uygu
 Dil: Oylayan1, Oylayan2 seklinde bu dosyayi editleyerek ilerleyebiliriz. Coklu oylama mumkundur.
 
 * Java: @o
-* PHP: @o, @ozziest, @okanvurdu
+* PHP: @o, @ozziest, @okanvurdu, @sahtepetrucci
 * Python: @readtimeout
 * Go:
 * NodeJS: @okanvurdu
@@ -14,3 +14,4 @@ Oylayanlar:
 * @ozziest
 * @readtimeout
 * @okanvurdu
+* @sahtepetrucci
