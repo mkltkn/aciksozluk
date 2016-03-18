@@ -2,8 +2,8 @@ Anonim bir oylama yerine herkesin fikirlerini yazdigi bir dosya olusturmayi uygu
 
 Dil: Oylayan1, Oylayan2 seklinde bu dosyayi editleyerek ilerleyebiliriz. Coklu oylama mumkundur.
 
-* Java: @o, @erayarslan, @ulotrix
-* PHP: @o, @ozziest, @okanvurdu, @sahtepetrucci, @erayarslan, @krcgk, @hqv, @erenhatirnaz, @thedewil
+* Java: @o, @erayarslan, @ulotrix, @fthyilmz
+* PHP: @o, @ozziest, @okanvurdu, @sahtepetrucci, @erayarslan, @krcgk, @hqv, @erenhatirnaz, @thedewil, @fthyilmz
 * Python: @readtimeout, @onur
 * Go: @hqv
 * NodeJS: @okanvurdu, @ramesaliyev, @erayarslan, @ygunayer @KiPSOFT, @vedatmahir, @mertcetin, @ibalpinar, @fatihbayar, @ahmetozantekin, @onur
@@ -29,4 +29,5 @@ Oylayanlar:
 * @ahmetozantekin
 * @erenhatirnaz
 * @thedewil
+* @fthyilmz
 * @onur
