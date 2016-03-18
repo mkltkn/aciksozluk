@@ -4,9 +4,9 @@ Dil: Oylayan1, Oylayan2 seklinde bu dosyayi editleyerek ilerleyebiliriz. Coklu o
 
 * Java: @o, @erayarslan, @ulotrix, @fthyilmz
 * PHP: @o, @ozziest, @okanvurdu, @sahtepetrucci, @erayarslan, @krcgk, @erenhatirnaz, @thedewil, @fthyilmz
-* Python: @readtimeout, @onur
+* Python: @readtimeout, @onur, @tolgahanuzun
 * Go: @hqv
-* NodeJS: @okanvurdu, @ramesaliyev, @erayarslan, @ygunayer @KiPSOFT, @vedatmahir, @mertcetin, @ibalpinar, @fatihbayar, @ahmetozantekin, @onur
+* NodeJS: @okanvurdu, @ramesaliyev, @erayarslan, @ygunayer @KiPSOFT, @vedatmahir, @mertcetin, @ibalpinar, @fatihbayar, @ahmetozantekin, @onur , @tolgahanuzun
 
 Oylayanlar:
 
@@ -31,3 +31,4 @@ Oylayanlar:
 * @thedewil
 * @fthyilmz
 * @onur
+* @tolgahanuzun
