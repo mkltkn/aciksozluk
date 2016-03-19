@@ -1,4 +1,6 @@
-**Arkadaşlar lütfen pull-request göndermeyin. Organizasyona katılıp şahsi olarak bu dosyayı düzenleyerek oy verin. Organizasyon katılmak isteyen herkese aittir.**
+**Oylama sonlanmıştır ayrıntılı bilgiyi
+[ilgili hata raporunda](https://github.com/aciksozluk/altyapi-tartisma/issues/2)
+bulabilirsiniz**
 
 Anonim bir oylama yerine herkesin fikirlerini yazdigi bir dosya olusturmayi uygun gordum.
 
