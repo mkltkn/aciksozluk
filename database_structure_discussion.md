@@ -9,10 +9,13 @@ User
   - created_at  
   - last_login_date
 
+Title
+  - name
+  - slug
+
 Entry
   - User
-  - slug
-  - title
-  - description
+  - Title
+  - content
   - created_at
   
