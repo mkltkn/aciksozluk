@@ -11,7 +11,7 @@ User
   - updated_at
   - deleted_at
   - last_login_date
-  - avatar (@readtimeout, )
+  - avatar
 
 Title
   - name
@@ -21,7 +21,7 @@ Title
   - updated_at (denormalized suggestion for sorting)
   - entry_count (denormalized suggestion for fast read queries in table)
   - deleted_at
-  - User
+  - User (?)
 
 
 Entry
