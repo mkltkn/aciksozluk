@@ -16,6 +16,13 @@ User
 Title
   - name
   - slug
+  - is_hidden (?)
+  - created_at
+  - updated_at (denormalized suggestion for sorting)
+  - entry_count (denormalized suggestion for fast read queries in table)
+  - deleted_at
+  - User
+
 
 Entry
   - User
