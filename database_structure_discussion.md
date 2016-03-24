@@ -7,6 +7,8 @@ User
   - birthday
   - password
   - created_at  
+  - updated_at
+  - deleted_at
   - last_login_date
 
 Title
@@ -18,4 +20,6 @@ Entry
   - Title
   - content
   - created_at
+  - updated_at
+  - deleted_at
   
