@@ -1,5 +1,6 @@
 Bulunmasi gereken tablo ve fieldleri ekleyip/duzenleyip/cikarabilirsiniz.
 
+
 User
   - username
   - email
@@ -10,6 +11,7 @@ User
   - updated_at
   - deleted_at
   - last_login_date
+  - avatar (@readtimeout, )
 
 Title
   - name
