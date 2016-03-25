@@ -1,5 +1,5 @@
 **Oylama sonlanmıştır ayrıntılı bilgiyi
-[ilgili hata raporunda](https://github.com/aciksozluk/altyapi-tartisma/issues/2)
+[ilgili hata raporunda](https://github.com/aciksozluk/aciksozluk/issues/2)
 bulabilirsiniz**
 
 Anonim bir oylama yerine herkesin fikirlerini yazdigi bir dosya olusturmayi uygun gordum.
