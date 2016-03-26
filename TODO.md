@@ -1,8 +1,8 @@
 
 # Yapılacaklar Listesi
 
-- [x] [Programlama diline karar verilmesi](https://github.com/aciksozluk/altyapi-tartisma/issues/2)
-- [ ] [REST API için kütüphanelere karar verilmesi](https://github.com/aciksozluk/altyapi-tartisma/issues/18)
+- [x] [Programlama diline karar verilmesi](https://github.com/aciksozluk/aciksozluk/issues/2)
+- [ ] [REST API için kütüphanelere karar verilmesi](https://github.com/aciksozluk/aciksozluk/issues/18)
 - [ ] Authentication mekanizmasına karar verilmesi
 - [ ] Veritabanı yapısının belirlenmesi
 - [ ] REST altyapının istek, yanıt yapılarının ve JSON imzalarının standartlaştırılması
